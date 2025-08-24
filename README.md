@@ -56,11 +56,8 @@ This project is a **multi-agent AI translator system** built on **OpenAI’s Gem
 git clone https://github.com/Ibrahim4594/Simple-OpenAI-UV-Agent.git
 cd Simple-OpenAI-UV-Agent
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Add your API key
-echo "GEMINI_API_KEY=your_api_key_here" > .env
+"GEMINI_API_KEY=your_api_key_here" > .env
 
 # Run the translator
 python main.py
@@ -85,4 +82,5 @@ Main agent translation: Hallo, ich bin Ibrahim
 ---
 
 Do you want me to do that too?
+
 
